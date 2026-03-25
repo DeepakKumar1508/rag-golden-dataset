@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is a neural network?",
+    "answer": "A system of interconnected nodes that learns patterns from data.",
+    "source": "3Blue1Brown",
+    "type": "factual"
+  },
+  {
+    "question": "Why are activation functions used?",
+    "answer": "They introduce non-linearity so the model can learn complex patterns.",
+    "source": "3Blue1Brown",
+    "type": "conceptual"
+  }
+]
