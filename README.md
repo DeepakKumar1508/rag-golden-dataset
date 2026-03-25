@@ -6,7 +6,6 @@
 ## Tech
 - JSON dataset
 - GitHub
-
+roject updated againss
 ## Use Case
 Evaluate LLM + RAG pipelines for accuracy and reasoning.
-Project updated again
