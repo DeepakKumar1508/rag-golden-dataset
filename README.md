@@ -1,11 +1,16 @@
 # RAG Golden Dataset
 
-## Features
-- Based on educational videos
+## Overview
+Evaluation dataset for testing RAG systems on deep learning concepts.
 
-## Tech
-- JSON dataset
-- GitHub
-roject updated againss
-## Use Case
-Evaluate LLM + RAG pipelines for accuracy and reasoning.
+## Features
+- Multi-level questions (factual, reasoning, multi-hop)
+- Based on curated educational videos
+
+## Dataset Format
+```json
+{
+  "question": "...",
+  "answer": "...",
+  "type": "factual"
+}
